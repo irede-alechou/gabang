@@ -11,7 +11,6 @@
 	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
 	border-radius: 6px;
 	margin: 25px;
-	flex-basis: 250px;
 	flex-grow: 1;
 }
 
